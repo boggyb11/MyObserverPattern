@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\MyObserverPattern\MyObserverPattern\bin\Debug\MyObserverPattern.exe
+C:\Users\ben\source\repos\MyObserverPattern\MyObserverPattern\bin\Debug\MyObserverPattern.pdb
+C:\Users\ben\source\repos\MyObserverPattern\MyObserverPattern\obj\Debug\MyObserverPattern.csprojAssemblyReference.cache
+C:\Users\ben\source\repos\MyObserverPattern\MyObserverPattern\obj\Debug\MyObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\MyObserverPattern\MyObserverPattern\obj\Debug\MyObserverPattern.exe
+C:\Users\ben\source\repos\MyObserverPattern\MyObserverPattern\obj\Debug\MyObserverPattern.pdb
